@@ -19,6 +19,11 @@ GITHUBTARBALL
     git (1.2.2)
 
 GITHUBTARBALL
+  remote: boxen/puppet-heroku
+  specs:
+    heroku (2.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-homebrew
   specs:
     homebrew (1.1.2)
@@ -29,6 +34,11 @@ GITHUBTARBALL
     hub (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-mou
+  specs:
+    mou (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-nginx
   specs:
     nginx (1.4.0)
@@ -37,6 +47,11 @@ GITHUBTARBALL
   remote: boxen/puppet-nodejs
   specs:
     nodejs (2.2.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-osx
+  specs:
+    osx (1.3.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-repository
@@ -54,6 +69,31 @@ GITHUBTARBALL
     sudo (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-textmate
+  specs:
+    textmate (1.1.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-vagrant
+  specs:
+    vagrant (2.0.7)
+
+GITHUBTARBALL
+  remote: boxen/puppet-virtualbox
+  specs:
+    virtualbox (1.0.3)
+
+GITHUBTARBALL
+  remote: boxen/puppet-wget
+  specs:
+    wget (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-zsh
+  specs:
+    zsh (1.0.0)
+
+GITHUBTARBALL
   remote: cprice-puppet/puppetlabs-inifile
   specs:
     inifile (0.9.0)
@@ -68,13 +108,21 @@ DEPENDENCIES
   dnsmasq (= 1.0.0)
   gcc (= 1.0.0)
   git (= 1.2.2)
+  heroku (= 2.0.0)
   homebrew (= 1.1.2)
   hub (= 1.0.0)
   inifile (= 0.9.0)
+  mou (= 1.0.0)
   nginx (= 1.4.0)
   nodejs (= 2.2.0)
+  osx (= 1.3.0)
   repository (= 2.0.2)
   ruby (= 4.1.0)
   stdlib (= 4.0.2)
   sudo (= 1.0.0)
+  textmate (= 1.1.0)
+  vagrant (= 2.0.7)
+  virtualbox (= 1.0.3)
+  wget (= 1.0.0)
+  zsh (= 1.0.0)
 

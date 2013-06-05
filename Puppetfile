@@ -33,3 +33,11 @@ github "sudo",       "1.0.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+github "osx", "1.3.0"
+github "zsh", "1.0.0"
+github "textmate", "1.1.0"
+github "virtualbox", "1.0.3"
+github "vagrant", "2.0.7"
+github "heroku", "2.0.0"
+github "mou", "1.0.0"
+github "wget", "1.0.0"
