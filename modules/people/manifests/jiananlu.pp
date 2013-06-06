@@ -7,4 +7,7 @@ class people::jiananlu {
   include heroku
   include mou
   include wget
+  include sysctl
+  include postgresql
+  postgresql::db {'boxen_development':}
 }
